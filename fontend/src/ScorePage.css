@@ -1,0 +1,27 @@
+.top-score{
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(248.25deg 84.21% 62.75%);
+    color: white;
+    width: 264px;
+    border-radius: 7px;
+    box-shadow: 2px 3px 4px gray;
+}
+h2{
+    color : #505716;
+}
+p{
+    font-size: 19px;
+    background-color: #af7836;
+    border-radius: 6px;
+}
+table{
+    border-collapse: collapse;
+    background-color: hsl(248.25deg 37.92% 41.03%);
+    color: white;
+    border-radius: 45px;
+    border: none;
+}
+th{
+    width: 126px;
+}
